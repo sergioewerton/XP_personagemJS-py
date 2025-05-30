@@ -1,8 +1,9 @@
 ## Desafio DIO 
-criando uma lógica de programação para XP de personagem em:
 
-.Node.js (javascript)
-.Python
+#criando uma lógica de programação para XP de personagem em:
+
+ 🟩Node.js (javascript)
+ 🟦Python
 
 # 1️⃣ Desafio Classificador de nível de Herói
 
